@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Project/Scikit-Learn",
+        "./Project/Scikit",
+        "./Project"
+    ]
+}
